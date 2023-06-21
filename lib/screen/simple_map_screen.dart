@@ -29,7 +29,7 @@ class _SimpleMapScreenState extends State<SimpleMapScreen> {
           floatingActionButton: FloatingActionButton.extended(onPressed: (){
             goToRedSea();
           },
-            label: const Text("To the RedSea!"),
+            label: const Text(" Go To the RedSea! "),
             icon: const Icon(Icons.directions_boat),),
       ),
     );
